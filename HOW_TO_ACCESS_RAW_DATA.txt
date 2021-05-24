@@ -1,0 +1,37 @@
+Raw data can be obtained from the ENTSO-E FTP server.
+Study is based on data for 2017.
+
+
+>> Download actual generation of power plants, save into folder "Generation", as files:
+
+2017_1_ActualGenerationOutputPerUnit.csv
+...
+2017_12_ActualGenerationOutputPerUnit.csv
+
+
+>> Download forecasts for load, save into folder "Load Forecast", as files:
+
+2017_1_DayAheadTotalLoadForecast.csv
+...
+2017_12_DayAheadTotalLoadForecast.csv
+
+
+>> Download net positions, save into folder "Netposition", as files:
+
+2017_1_NetPositionsDaily.csv
+...
+2017_12_NetPositionsDaily.csv
+
+
+>> Download outages (GU), save into folder "Outages", as files:
+
+2017_1_OutagesGU.csv
+...
+2017_12_OutagesGU.csv
+
+
+>> Download renewable energy forecasts, save into folder "Renewable Forecast", as files:
+
+2017_1_DayAheadGenerationForecastWindSolar.csv
+...
+2017_12_DayAheadGenerationForecastWindSolar.csv
